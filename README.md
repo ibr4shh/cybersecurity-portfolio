@@ -10,6 +10,7 @@ This repository contains my hands-on cybersecurity analyst labs and investigatio
 - Malware Traffic Analysis
 
 ## Projects
+- **Cooking Assistant App** (Flutter Mobile App)
 - Networking Labs
 - SOC Alert Investigations
 - Phishing Analysis
